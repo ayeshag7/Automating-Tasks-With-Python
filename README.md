@@ -10,5 +10,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 
 ## Tasks Automated So Far
 * Converting YouTube Videos to Mp3 files.
-* Producing Watermarks on Images.
+* Producing Captchas.
 * Creating GIFs.
+
+Have Fun!
