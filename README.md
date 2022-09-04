@@ -13,9 +13,11 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Converting YouTube Videos to Mp3 files.
 * Producing Captchas.
 * Creating GIFs.
+* Converting Mp4 Videos to GIFs.
 
 ## Python Libraries Used
 * Pillow
 * PyTube
 * Imageio
 * Captcha
+* Moviepy
