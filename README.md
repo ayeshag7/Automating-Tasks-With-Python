@@ -18,3 +18,4 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Pillow
 * PyTube
 * Imageio
+* Captcha
