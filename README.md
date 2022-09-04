@@ -7,10 +7,14 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 ## Rules
 * Your Python script should contain sufficient comments to help others understand your code.
 * The name of the task that you're automating must be added to the tasks section.
+* The name of the library or package you used must be added to the libraries section if it's not already there.
 
 ## Tasks Automated So Far
 * Converting YouTube Videos to Mp3 files.
 * Producing Captchas.
 * Creating GIFs.
 
-Have Fun!
+## Python Libraries Used
+* Pillow
+* PyTube
+* Imageio
