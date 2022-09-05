@@ -15,6 +15,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Creating GIFs.
 * Converting Mp4 Videos to GIFs.
 * Converting Text to Handwriting.
+* Converting PDF file to Audio.
 
 ## Python Libraries Used
 * Pillow
@@ -23,3 +24,5 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Captcha
 * Moviepy
 * Pywhatkit
+* PyPDF2
+* pyttsx3
