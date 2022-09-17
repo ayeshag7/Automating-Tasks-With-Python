@@ -17,6 +17,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Converting Text to Handwriting.
 * Converting PDF file to Audio.
 * Correcting word spelling.
+* Getting address details through zipcode.
 
 ## Python Libraries Used
 * Pillow
@@ -28,3 +29,4 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * PyPDF2
 * pyttsx3
 * textblob
+* geopy
