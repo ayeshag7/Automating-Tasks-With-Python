@@ -18,6 +18,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Converting PDF file to Audio.
 * Correcting word spelling.
 * Getting address details through zipcode.
+* Shortening URLs.
 
 ## Python Libraries Used
 * Pillow
@@ -30,3 +31,4 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * pyttsx3
 * textblob
 * geopy
+* pyshorteners
