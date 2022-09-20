@@ -2,7 +2,7 @@
 Python scripts to automate tedious tasks and have some fun.
 
 ![Contributors](https://img.shields.io/github/contributors/ayeshag7/Automating-Tasks-With-Python?style=plastic)
-![Forks](https://img.shields.io/github/forks/ayeshag7/Automating-Tasks-With-Python)
+![Forks](https://img.shields.io/github/forks/ayeshag7/Automating-Tasks-With-Python?color=yellow)
 ![Issues](https://img.shields.io/github/issues/ayeshag7/Automating-Tasks-With-Python)
 ![Stars](https://img.shields.io/github/stars/ayeshag7/Automating-Tasks-With-Python)
 
