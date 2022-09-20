@@ -24,6 +24,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Correcting word spelling.
 * Getting address details through zipcode.
 * Shortening URLs.
+* Encrypting PDF files with a password.
 
 ## Python Libraries Used 🛠️
 * Pillow
