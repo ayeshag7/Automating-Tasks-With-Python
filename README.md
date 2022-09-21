@@ -25,6 +25,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * Getting address details through zipcode.
 * Shortening URLs.
 * Encrypting PDF files with a password.
+* Creating Desktop Notifications.
 
 ## Python Libraries Used 🛠️
 * Pillow
@@ -38,6 +39,7 @@ This repository is dedicated to python scripts that automate some tedious tasks 
 * textblob
 * geopy
 * pyshorteners
+* plyer
 
 ## Tools to help you get Started with Open-Source Contribution 
 If you're just a beginner in open-source, this is a great repository for you to practice and earn a green square 🟩. Below are some tools to help you get started.
